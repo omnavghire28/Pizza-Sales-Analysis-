@@ -61,7 +61,26 @@ The Pizza Sales Analysis project aims to provide a comprehensive understanding o
 
 18.What are the top five worst-selling pizzas?
 
-Dashboard Interaction <a href ="https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%201.png"> View Dashboard</a>
+## Process
+1.Data Collection – Gather pizza sales data including orders, revenue, and product details.
+
+2.Data Cleaning – Remove errors, format dates/times, and ensure consistency.
+
+3.KPI Identification – Define key metrics like total revenue, average order value, and category-wise sales.
+
+4.SQL Query Execution – Run queries to calculate trends, peak sales times, and category contributions.
+
+5.Trend Analysis – Identify best-selling items, worst-selling items, busiest sales hours, and daily trends.
+
+6.Visualization – Create charts and graphs for easy interpretation of insights.
+
+7.Sales Optimization – Use findings to improve menu offerings and promotional strategies.
+
+8.Final Report – Summarize insights for business decision-making and GitHub showcasing.
+
+## Dashboard Interaction 
+<a href ="https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%201.png"> Dashboard View 1</a>
+<a href = "https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%202.png"> Dashboard View 2 </a>
 
 
 
