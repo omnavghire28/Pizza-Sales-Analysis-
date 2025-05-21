@@ -25,5 +25,41 @@ pizza_category – The category of the pizza (e.g., classic, deluxe, specialty).
 pizza_ingredients – The list of ingredients used in the pizza.
 
 ## KPI Questions
+What is the total revenue generated in the pizza sales project?
+
+What is the average order value calculated from the dataset?
+
+How many total pizzas were sold in the project?
+
+What is the total number of orders placed?
+
+What is the average number of pizzas per order?
+
+Which day of the week has the highest number of pizza orders?
+
+What is the busiest time for pizza orders?
+
+Which pizza category contributes the maximum sales?
+
+Which pizza size has the highest percentage of total sales?
+
+What percentage of sales is contributed by the Supreme pizza category?
+
+Which pizza is the best-selling pizza in the dataset?
+
+Which pizza is the worst-selling pizza?
+
+What is the percentage contribution of each pizza category to total sales?
+
+What is the percentage of sales contributed by each pizza size?
+
+What is the total number of pizzas sold by each pizza category?
+
+Which pizza size contributes the least percentage of sales?
+
+What are the top five best-selling pizzas?
+
+What are the top five worst-selling pizzas?
+
 
 
