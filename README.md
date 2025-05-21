@@ -61,7 +61,7 @@ The Pizza Sales Analysis project aims to provide a comprehensive understanding o
 
 18.What are the top five worst-selling pizzas?
 
-Dashboard Interaction <a
+Dashboard Interaction <a href ="https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%201.png"> View Dashboard</a>
 
 
 
