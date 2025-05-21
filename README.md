@@ -80,7 +80,13 @@ The Pizza Sales Analysis project aims to provide a comprehensive understanding o
 
 ## Dashboard Interaction 
 <a href ="https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%201.png"> Dashboard View 1</a>
+
 <a href = "https://github.com/omnavghire28/Pizza-Sales-Analysis-/blob/main/Dashboard%20Image%202.png"> Dashboard View 2 </a>
+
+##Final Conclusion
+The Pizza Sales Analysis project provides valuable insights into customer preferences, sales trends, and revenue distribution. Through detailed examination of order data, key metrics such as total revenue, average order value, and busiest sales periods were identified. The findings highlight that weekends are the most popular for pizza orders, with peak times around 12 PM – 1 PM and evening hours.
+
+Analysis of sales by category and size reveals that Classic pizzas contribute the highest sales, while large-sized pizzas drive maximum revenue. Additionally, the Classic Deluxe Pizza ranks as the best-selling item, whereas the Brie Carre Pizza has the lowest sales performance.
 
 
 
