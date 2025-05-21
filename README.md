@@ -24,3 +24,6 @@ pizza_category – The category of the pizza (e.g., classic, deluxe, specialty).
 <b>
 pizza_ingredients – The list of ingredients used in the pizza.
 
+## KPI Questions
+
+
